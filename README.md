@@ -65,14 +65,14 @@ norm_TRANTIME <- norm_varb(TRANTIME)
 Before we move on, we can check each variable within each borough to further strengthen our assumptions.
 
 TRANWORK legend:
-10-20 = Private vehicles
-10 = Auto, truck, or van
-30-36 = Public transport
-33 = Subway, or elevated
-40 = Bicycle
-50 = Walked only
-60 = Other
-70 = Worked at home
+<p style="color:rgb(182,18,27);font-family:corbel">10-20 = Private vehicles</p>
+<p style="color:rgb(182,18,27);font-family:corbel">10 = Auto, truck, or van</p>
+<p style="color:rgb(182,18,27);font-family:corbel">30-36 = Public transport</p>
+<p style="color:rgb(182,18,27);font-family:corbel">33 = Subway, or elevated</p>
+<p style="color:rgb(182,18,27);font-family:corbel">40 = Bicycle</p>
+<p style="color:rgb(182,18,27);font-family:corbel">50 = Walked only</p>
+<p style="color:rgb(182,18,27);font-family:corbel">60 = Other</p>
+<p style="color:rgb(182,18,27);font-family:corbel">70 = Worked at home</p>
 
 For all boroughs except SI, the median is 33, meaning most people commute via subway. Within those 4 boroughs, only Manhattan's mean is above the median, suggesting that less people take private vehicles, and that maybe more people don't even need to take the metro since they are closer to their jobs. This makes sense because Manhattan is the biggest and best communicated economic center in NYC, and living is also more condensed than in other boroughs. Queens and the Bronx is where we would assume more people need private vehicles after SI because of limited of MTA reach (DE BLASIO!)
 
