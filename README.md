@@ -3,7 +3,7 @@
 title: "HW3"
 author: "M.Martinez-Raga"
 date: "9/29/2020"
-output: html_document
+output: html_document</p>
 ---
 
 ```{r setup, include=FALSE}
